@@ -1,0 +1,14 @@
+{
+  "potions": {
+    "sm_pot": {
+      "dis_name": "Puny Potion",
+      "rest_effects": 15,
+      "weight": 0.25,
+      "chance": 10
+    },
+  "md_pot": {
+    "dis_name": "Potion",
+    "rest_effects": 35,
+    "weight": 0.3, "chance": 3}
+  }
+}
