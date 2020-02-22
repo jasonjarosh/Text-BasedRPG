@@ -9,6 +9,7 @@
   "md_pot": {
     "dis_name": "Potion",
     "rest_effects": 35,
-    "weight": 0.3, "chance": 3}
+    "weight": 0.3, 
+    "chance": 3}
   }
 }
